@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-char metin[],sifre[],kucukHarf;
+char metin[100],sifre[100],kucukHarf;
 	int j,anahtar;
 	FILE *dosya;
 
