@@ -157,7 +157,7 @@ int main()
 	{
 		                  case 1:
 			              sifreleYazdir();
-                          printf("Algoritma Kisa Sinav 1.2 Adli Klasordeki '' Sifrelenenkelimeler '' Adli Word Dosyasina Sifrelendi !! TEYIT EDIN !!\n\n");
+                          printf('' Sifrelenenkelimeler '' Adli Word Dosyasina Sifrelendi !! TEYIT EDIN !!\n\n");
 			              goto anamenu;
                           break;
 
