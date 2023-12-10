@@ -1,4 +1,7 @@
 ENES KUVET YAZILIM MÜH 1.SINIF 1230505061
+
+KODU KULLANMAK İÇİN KOPYALAYIP DERLEYİCİNİZE YAPIŞTIRINIZ.KODU ÇALIŞTIRIRKEN DERLEYİCİDEN ÇIKIP WORD DOSYASINI TEYİT ETMEYİ UNUTMAYINIZ..
+
 Projem C dilinde yazılmıştır.
 Kullanıcı şifreleme işlemini seçer.
 Sonra bir metin girişini yapar.
